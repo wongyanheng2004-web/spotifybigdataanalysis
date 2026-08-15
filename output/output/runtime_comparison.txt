@@ -1,0 +1,7 @@
+PySpark computation time: 29.16 seconds
+Pandas computation time: 0.09 seconds
+Spark startup time: 13.51 seconds
+Faster for this dataset: Pandas
+Approximate runtime ratio: 310.73x
+PySpark cleaned rows: 113842
+Pandas cleaned rows: 113842
