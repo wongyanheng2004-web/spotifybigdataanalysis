@@ -1,5 +1,0 @@
-danceability: +0.0660
-energy: +0.0144
-valence: -0.0109
-tempo: +0.0088
-loudness: +0.0733
