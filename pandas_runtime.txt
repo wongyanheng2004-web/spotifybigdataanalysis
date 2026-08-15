@@ -1,2 +1,0 @@
-Pandas computation time: 0.09 seconds
-Rows processed: 113842
