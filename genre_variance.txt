@@ -1,0 +1,4 @@
+Variance in popularity explained by genre: 32.59%
+Strongest audio feature: loudness
+Strongest audio correlation: +0.0733
+Variance explained by strongest audio feature: 0.54%
